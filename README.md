@@ -1,4 +1,4 @@
-# Visualizador do Raio da Borda CSS
+# Border-radius Previewer
 
 Este é um projeto simples que permite visualizar e manipular a propriedade `border-radius` de uma caixa, alterando seus valores para criar formas personalizadas.
 
